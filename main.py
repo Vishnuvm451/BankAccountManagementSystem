@@ -24,3 +24,4 @@ current.calculate_interest(0)
 
 print(' ')
 
+print('----- The End -----')
